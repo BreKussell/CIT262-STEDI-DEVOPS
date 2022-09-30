@@ -1,1 +1,5 @@
-# CIT262-STEDI-DEVOPS
+# To install and run
+`npm install`
+
+`npm start`
+
